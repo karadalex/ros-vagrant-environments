@@ -21,3 +21,10 @@ ROS Vagrnat Virtual Machines
 | **Indigo**  |
 | **Hydro**   |
 | **Groovy**  |
+
+### Ubuntu x64 vs ROS 2
+
+|             | Bionic <br>(18.04 LTS) | Zesty <br>(17.04) | Xenial <br>(16.04 LTS) | Trusty <br>(14.04 LTS) | Precise <br>(12.04 LTS) |
+| :---------: | :--------------------: | :----------------: | :--------------------: | :--------------------: | :---------------------: |
+| **Crystal** | [Supported](./crystal-bionic/README.md) |
+| **Bouncy**  |
