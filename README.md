@@ -10,7 +10,7 @@ ROS Vagrnat Virtual Machines
 |             | Bionic <br>(18.04 LTS) | Zesty <br>(17.04) | Xenial <br>(16.04 LTS) | Trusty <br>(14.04 LTS) | Precise <br>(12.04 LTS) |
 | :---------: | :--------------------: | :----------------: | :--------------------: | :--------------------: | :---------------------: |
 | **Melodic** | [Supported](./melodic-bionic/README.md) |
-| **Lunar**   | 
+| **Lunar**   |  |  | [Supported](./lunar-xenial/README.md) |
 | **Kinetic** |
 | **Jade**    |
 | **Indigo**  |
