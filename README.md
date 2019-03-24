@@ -1,4 +1,4 @@
-ROS Vagrnat Virtual Machines
+ROS Vagrant Virtual Machines
 ============================
 
 ## Requirements
