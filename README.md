@@ -17,10 +17,10 @@ ROS Vagrnat Virtual Machines
 | **Melodic** | [Supported](./melodic-bionic/README.md) |
 | **Lunar**   |  |  | [Supported](./lunar-xenial/README.md) |
 | **Kinetic** |  |  | [Supported](./kinetic-xenial/README.md) |
-| **Jade**    |
+| **Jade**    | EOL | EOL | EOL | EOL | EOL |
 | **Indigo**  |
-| **Hydro**   |
-| **Groovy**  |
+| **Hydro**   | EOL | EOL | EOL | EOL | EOL |
+| **Groovy**  | EOL | EOL | EOL | EOL | EOL |
 
 ### Ubuntu x64 vs ROS 2
 
