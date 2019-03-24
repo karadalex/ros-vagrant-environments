@@ -1,6 +1,8 @@
 ROS Vagrant Virtual Machines
 ============================
 
+Vagrant Virtual Machines for multiple versions (and combinations of versions) of ROS and Ubuntu
+
 ## Requirements
 
 1. [Virtualbox](https://www.virtualbox.org/wiki/Downloads)
