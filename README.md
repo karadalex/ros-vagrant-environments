@@ -16,7 +16,7 @@ ROS Vagrnat Virtual Machines
 | :---------: | :--------------------: | :----------------: | :--------------------: | :--------------------: | :---------------------: |
 | **Melodic** | [Supported](./melodic-bionic/README.md) |
 | **Lunar**   |  |  | [Supported](./lunar-xenial/README.md) |
-| **Kinetic** |
+| **Kinetic** |  |  | [Supported](./kinetic-xenial/README.md) |
 | **Jade**    |
 | **Indigo**  |
 | **Hydro**   |
