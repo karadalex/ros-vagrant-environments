@@ -7,7 +7,7 @@ ROS Vagrnat Virtual Machines
 2. [Vagrant](https://www.vagrantup.com/downloads.html)
 
 
-## Version Matrix
+## Version Matrices
 
 
 ### Ubuntu x64 vs ROS
@@ -28,3 +28,14 @@ ROS Vagrnat Virtual Machines
 | :---------: | :--------------------: | :----------------: | :--------------------: | :--------------------: | :---------------------: |
 | **Crystal** | [Supported](./crystal-bionic/README.md) |  | [Supported](./crystal-xenial/README.md) |
 | **Bouncy**  | [Supported](./bouncy-bionic/README.md) |  | [Supported](./bouncy-xenial/README.md) |
+
+### Gazebo vs ROS versions
+
+In the Vagrant boxes of this repository the Recommended versions for Gazebo are installed (TODO)
+
+|         |  Gazebo 9   |  Gazebo 8   |  Gazebo 7   |  Gazebo 2   |
+| :-----: | :---------: | :---------: | :---------: | :---------: |
+| **Melodic** | **Recommended** |             |             |             |
+| **Lunar**   | Supported   | Supported   | **Recommended** |             |
+| **Kinetic** | Supported   | Supported   | **Recommended** |             |
+| **Indigo**  |             |             | Supported   | **Recommended** |
