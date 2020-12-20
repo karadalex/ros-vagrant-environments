@@ -25,22 +25,23 @@ Vagrant Virtual Machines for multiple versions (and combinations of versions) of
 
 ### Ubuntu x64 vs ROS
 
-|             |         Focal <br> (20.04 LTS)          |         Bionic <br>(18.04 LTS)          | Zesty <br>(17.04) |         Xenial <br>(16.04 LTS)          | Trusty <br>(14.04 LTS) | Precise <br>(12.04 LTS) |
-| :---------: | :-------------------------------------: | :-------------------------------------: | :---------------: | :-------------------------------------: | :--------------------: | :---------------------: |
+|             |         Focal <br> (20.04 LTS)         |         Bionic <br>(18.04 LTS)          | Zesty <br>(17.04) |         Xenial <br>(16.04 LTS)          | Trusty <br>(14.04 LTS) | Precise <br>(12.04 LTS) |
+| :---------: | :------------------------------------: | :-------------------------------------: | :---------------: | :-------------------------------------: | :--------------------: | :---------------------: |
 | **Melodic** | [Supported](./melodic-focal/README.md) | [Supported](./melodic-bionic/README.md) |
-|  **Lunar**  |                                         |                                         |                   |  [Supported](./lunar-xenial/README.md)  |
-| **Kinetic** |                                         |                                         |                   | [Supported](./kinetic-xenial/README.md) |
-|  **Jade**   |                   EOL                   |                   EOL                   |        EOL        |                   EOL                   |          EOL           |           EOL           |
-| **Indigo**  |                   EOL                   |
-|  **Hydro**  |                   EOL                   |                   EOL                   |        EOL        |                   EOL                   |          EOL           |           EOL           |
-| **Groovy**  |                   EOL                   |                   EOL                   |        EOL        |                   EOL                   |          EOL           |           EOL           |
+|  **Lunar**  |                                        |                                         |                   |  [Supported](./lunar-xenial/README.md)  |
+| **Kinetic** |                                        |                                         |                   | [Supported](./kinetic-xenial/README.md) |
+|  **Jade**   |                  EOL                   |                   EOL                   |        EOL        |                   EOL                   |          EOL           |           EOL           |
+| **Indigo**  |                  EOL                   |
+|  **Hydro**  |                  EOL                   |                   EOL                   |        EOL        |                   EOL                   |          EOL           |           EOL           |
+| **Groovy**  |                  EOL                   |                   EOL                   |        EOL        |                   EOL                   |          EOL           |           EOL           |
 
 ### Ubuntu x64 vs ROS 2
 
-|             |         Bionic <br>(18.04 LTS)          | Zesty <br>(17.04) |         Xenial <br>(16.04 LTS)          | Trusty <br>(14.04 LTS) | Precise <br>(12.04 LTS) |
-| :---------: | :-------------------------------------: | :---------------: | :-------------------------------------: | :--------------------: | :---------------------: |
-| **Crystal** | [Supported](./crystal-bionic/README.md) |                   | [Supported](./crystal-xenial/README.md) |
-| **Bouncy**  | [Supported](./bouncy-bionic/README.md)  |                   | [Supported](./bouncy-xenial/README.md)  |
+|             |       Focal <br> (20.04 LTS)        |         Bionic <br>(18.04 LTS)          | Zesty <br>(17.04) |         Xenial <br>(16.04 LTS)          | Trusty <br>(14.04 LTS) | Precise <br>(12.04 LTS) |
+| :---------: | :---------------------------------: | :-------------------------------------: | :---------------: | :-------------------------------------: | :--------------------: | :---------------------: |
+|  **Foxy**   | [Supported](./foxy-focal/README.md) |                                         |                   |                                         |
+| **Crystal** |                                     | [Supported](./crystal-bionic/README.md) |                   | [Supported](./crystal-xenial/README.md) |
+| **Bouncy**  |                                     | [Supported](./bouncy-bionic/README.md)  |                   | [Supported](./bouncy-xenial/README.md)  |
 
 ### Gazebo vs ROS versions
 
