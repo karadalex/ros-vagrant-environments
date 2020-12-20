@@ -53,3 +53,18 @@ In the Vagrant boxes of this repository the Recommended versions for Gazebo are 
 |  **Lunar**  |    Supported    | Supported | **Recommended** |                 |
 | **Kinetic** |    Supported    | Supported | **Recommended** |                 |
 | **Indigo**  |                 |           |    Supported    | **Recommended** |
+
+
+## Troubleshooting
+
+- Make sure this repository is cloned in a directory where vagrant has enough permissions to run and provision virtual machines.
+- ```
+The VirtualBox VM was created with a user that doesn't match the
+current user running Vagrant. VirtualBox requires that the same user
+be used to manage the VM that was created. Please re-run Vagrant with
+that user. This is not a Vagrant issue.
+
+The UID used to create the VM was: 1000
+Your UID is: 0
+```
+Make sure you run vagrant with the same user, the above error may occur when running at first the box with simple user and then with root (sudo)
